@@ -71,7 +71,7 @@ _Typically used for more closer-knit, human-centric organizations like charities
 
 ### Reputation-based membership {#reputation-based-membership}
 
-Reputation represents proof of participation and grants voting power in the DAO. Unlike token or share-based membership, reputation-based DAOs don't transfer ownership to contributors. Reputation cannot be bought, transferred or delegated; DAO members must earn reputation through participation. On-chain voting is permissionless and prospective members can freely submit proposals to join the DAO and request to receive reputation and tokens as a reward in exchange for their contributions.
+Reputation represents proof of participation and grants voting power in the DAO. Unlike token or share-based membership, reputation-based DAOs don't transfer ownership to contributors. Reputation cannot be bought, transferred or delegated; DAO members must earn reputation through participation. On-chain voting is permissionless and prospective members can freely submit proposals to join the DAO and reques tokens as a reward in exchange for their contributions.
 
 _Typically used for decentralized development and governance of protocols and dapps, but also well suited to a diverse set of organizations like charities, worker collectives, investment clubs, etc._
 
